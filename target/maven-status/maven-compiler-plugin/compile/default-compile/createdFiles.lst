@@ -1,0 +1,5 @@
+com/oberdan/listavip/ConvidadoController.class
+com/oberdan/listavip/Configuracao.class
+com/oberdan/listavip/service/ConvidadoService.class
+com/oberdan/listavip/repository/ConvidadoRepository.class
+com/oberdan/listavip/model/Convidado.class
